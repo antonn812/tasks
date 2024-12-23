@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Circle.java/Circle.java.iml" filepath="$PROJECT_DIR$/Circle.java/Circle.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle.iml" />
     </modules>
   </component>
